@@ -27,7 +27,10 @@ O que a empresa precisa fazer para resolver isso?
 ### Informações
 
 `Origem:` /dataset/telecom_users.csv
+
 `Python Interpreter:` python 3.9.7 64-bit
+
+`Bibliotecas Utilizadas:` pandas / plotly
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
