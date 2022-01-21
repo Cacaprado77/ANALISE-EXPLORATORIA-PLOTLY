@@ -37,23 +37,29 @@ O que a empresa precisa fazer para resolver isso?
 ### Conclusões e Ações
 
 - Clientes com `contrato mensal` tem muito mais chance de cancelar
+
 Ação: Podemos fazer promoções para o cliente ir para o contrato anual
     
 - `Famílias maiores` tendem a cancelar menos do que famílias menores
+
 Ação: Podemos fazer promoções pra pessoa pegar uma linha adicional de telefone
     
 - Clientes com `pouco tempo de utilização do serviço` tendem a cancelar muito mais
     - A primeira experiência do cliente na operadora pode ser ruim
     - Talvez a captação de clientes está trazendo clientes desqualificados
+
 Ação: Podemos criar incentivo para fidelizar o cliente
     
 - Quanto `mais serviços contratados` a pessoa tem, menos chance dela cancelar
+
 Ação: Podemos fazer promoções com mais serviços para o cliente
     
 - `Serviço de Fibra` faz com os clientes cancelem mais
+
 Ação: Agir sobre este serviço
     
 - Clientes que têm como `forma de pagamento o boleto bancário`, têm muito mais chance de cancelar
+
 Ação: Propor alguma ação para eles migrarem para as outras formas de pagamento
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
