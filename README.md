@@ -1,5 +1,7 @@
  # Análise Exploratória de Dados com Python - Telecom
 
+ ![](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/image.jpeg)
+
 ### Projeto Telecom
 
 `Problema`
